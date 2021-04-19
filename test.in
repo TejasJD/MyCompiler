@@ -1,0 +1,4 @@
+db_type : sql
+db_name : mydb
+db_table_prefix : test_
+db_port : 1999
